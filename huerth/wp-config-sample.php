@@ -15,13 +15,13 @@
 
 /**  MySQL Einstellungen - diese Angaben bekommst du von deinem Webhoster. */
 /**  Ersetze database_name_here mit dem Namen der Datenbank, die du verwenden möchtest. */
-define('DB_NAME', 'database_name_here');
+define('DB_NAME', 'asbachbueltel_huerth');
 
 /** Ersetze username_here mit deinem MySQL-Datenbank-Benutzernamen */
-define('DB_USER', 'username_here');
+define('DB_USER', 'root');
 
 /** Ersetze password_here mit deinem MySQL-Passwort */
-define('DB_PASSWORD', 'password_here');
+define('DB_PASSWORD', 'root');
 
 /** Ersetze localhost mit der MySQL-Serveradresse */
 define('DB_HOST', 'localhost');
